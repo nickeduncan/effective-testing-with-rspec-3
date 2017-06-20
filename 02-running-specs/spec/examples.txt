@@ -1,0 +1,6 @@
+example_id                      | status  | run_time        |
+------------------------------- | ------- | --------------- |
+./09/spec/coffee_spec.rb[1:1]   | passed  | 0.00094 seconds |
+./09/spec/coffee_spec.rb[1:2:1] | passed  | 0.00011 seconds |
+./09/spec/coffee_spec.rb[1:2:2] | pending | 0.00001 seconds |
+./09/spec/coffee_spec.rb[1:2:3] | pending | 0 seconds       |

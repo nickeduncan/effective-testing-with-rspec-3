@@ -13,7 +13,6 @@ class Coffee
 end
 
 RSpec.configure do |config|
-	config.filter_run_when_matching(focus: true)
 	config.example_status_persistence_file_path = 'spec/examples.txt'
 end
 
@@ -30,5 +29,8 @@ RSpec.describe 'A cup of coffee' do
 		it 'costs $1.25' do
 			expect(coffee.price).to eq(1.25)
 		end
+
+		it 'is light in color'
+		it 'is cooler than 200 degress Fahrenheit'
 	end
 end
