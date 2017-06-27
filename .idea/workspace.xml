@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8a6beb1-49bb-46a5-8715-692d229dfec3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/db/development.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/db/test.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/db/development.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/db/test.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-integration-specs/exercises/02/spec/acceptance/expense_tracker_api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-integration-specs/exercises/02/spec/examples.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-integration-specs/exercises/02/spec/integration/app/ledger_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-integration-specs/exercises/02/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-integration-specs/exercises/02/spec/support/db.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-integration-specs/exercises/02/spec/unit/app/api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/01/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/01/getting_the_words_right.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/api_snippets.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/app/api.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/app/ledger.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/config/sequel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/db/migrations/0001_create_expenses.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/spec/acceptance/expense_tracker_api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/spec/examples.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/spec/integration/app/ledger_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/spec/support/db.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/02/expense_tracker/spec/unit/app/api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/api_snippets.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/app/api.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/app/ledger.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/config/sequel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/db/migrations/0001_create_expenses.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/spec/acceptance/expense_tracker_api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/spec/examples.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/spec/integration/app/ledger_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/spec/support/db.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/03/expense_tracker/spec/unit/app/api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/04/around_hooks_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/04/before_and_after_hooks.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/04/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/06/transit/spec/berlin_transit_ticket_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/07/expense_tracker_api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/08/expense_tracker_api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/09/expense_tracker_api_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/10/shared_examples/spec/hash_kv_store_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/lib/file_kv_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/lib/hash_kv_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/hash_kv_store_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/include_examples_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/include_examples_twice_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/it_behaves_like_twice_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/pass_block_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/support/kv_store_shared_examples.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/effective-testing-with-rspec-3.iml" afterPath="$PROJECT_DIR$/.idea/effective-testing-with-rspec-3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/spec/addressable_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/spec/uri_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,81 +31,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="kv_store_shared_examples.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/support/kv_store_shared_examples.rb">
+      <file leaf-file-name="uri_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/spec/uri_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file_kv_store.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/lib/file_kv_store.rb">
+      <file leaf-file-name="addressable_spec.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/spec/addressable_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hash_kv_store.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/lib/hash_kv_store.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hash_kv_store_spec.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/hash_kv_store_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="include_examples_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/include_examples_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="include_examples_twice_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/include_examples_twice_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="it_behaves_like_twice_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/it_behaves_like_twice_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pass_block_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/pass_block_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -190,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05-unit-specs/08/expense_tracker/spec/unit/app/api_spec.rb" />
-        <option value="$PROJECT_DIR$/05-unit-specs/08/expense_tracker/app/api.rb" />
         <option value="$PROJECT_DIR$/05-unit-specs/08/expense_tracker/app/ledger.rb" />
         <option value="$PROJECT_DIR$/05-unit-specs/09/expense_tracker/app/ledger.rb" />
         <option value="$PROJECT_DIR$/05-unit-specs/10/expense_tracker/app/ledger.rb" />
@@ -241,6 +122,8 @@
         <option value="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/lib/hash_kv_store.rb" />
         <option value="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/include_examples_twice_spec.rb" />
         <option value="$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/hash_kv_store_spec.rb" />
+        <option value="$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/spec/uri_spec.rb" />
+        <option value="$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/spec/addressable_spec.rb" />
       </list>
     </option>
   </component>
@@ -289,41 +172,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="11" />
+              <option name="myItemId" value="exercises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shared_examples" />
+              <option name="myItemId" value="shared_examples_exercise" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="effective-testing-with-rspec-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="effective-testing-with-rspec-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07-structuring-code-examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shared_examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -644,7 +501,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32069000" />
+    <option name="totallyTimeSpent" value="32874000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -702,27 +559,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06-integration-specs/04/expense_tracker/spec/integration/app/ledger_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06-integration-specs/06/expense_tracker/app/ledger.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06-integration-specs/07/expense_tracker/spec/integration/app/ledger_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06-integration-specs/07/expense_tracker/spec/acceptance/expense_tracker_api_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1016,23 +852,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/pass_block_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/it_behaves_like_twice_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/it_behaves_like_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1056,18 +884,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/include_examples_twice_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/lib/hash_kv_store.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/hash_kv_store_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/spec/uri_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1080,10 +916,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/hash_kv_store_spec.rb">
+    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/pass_block_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="210">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/it_behaves_like_twice_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/11/shared_examples/spec/include_examples_twice_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-structuring-code-examples/exercises/shared_examples_exercise/spec/addressable_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
           <folding />
         </state>
       </provider>
